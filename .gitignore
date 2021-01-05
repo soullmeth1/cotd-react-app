@@ -1,3 +1,5 @@
+build/*
+!build/build.xml
 # Logs
 logs
 *.log
@@ -46,9 +48,7 @@ build/Release
 
 # Dependency directories
 node_modules/
-
-#build folder
-/build
+build/*
 
 # Optional npm cache directory
 .npm
