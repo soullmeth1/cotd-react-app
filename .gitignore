@@ -48,7 +48,7 @@ build/Release
 node_modules/
 
 #build folder
-build/
+/build
 
 # Optional npm cache directory
 .npm
