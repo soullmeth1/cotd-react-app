@@ -62,6 +62,6 @@ typings/
 .env
 
 #file-addition
-security-rules.json
-note.md
+*security-rules.json
+*note.md
 
